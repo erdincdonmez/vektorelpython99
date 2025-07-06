@@ -1,0 +1,5 @@
+print("Merhaba")
+input()
+print("Nasılsın")
+input()
+print("İyi günler")

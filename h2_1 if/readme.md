@@ -1,0 +1,1 @@
+## Bu hafta if ve git hub öğrendik

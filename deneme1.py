@@ -1,0 +1,1 @@
+print("Git huba gönderme.")
